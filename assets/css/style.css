@@ -3214,8 +3214,8 @@ blockquote:after,
   padding-left: 0;
 }
 .countdown .countdown-item {
-  width: 55px;
-  height: 55px;
+  width: 65px;
+  height: 65px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
